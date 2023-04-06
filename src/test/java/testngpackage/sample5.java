@@ -21,5 +21,7 @@ public class sample5 {
 	public void afterclass()
 	{
 		System.out.println("after class from sample5"); 
+		
+		System.out.println("Tanvi@2618");
 	}
 }
